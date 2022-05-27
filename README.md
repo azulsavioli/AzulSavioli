@@ -13,6 +13,9 @@
 * 🌎- And wanting to become a digital nomade 
 * 📫- You can find me on  [![image](https://user-images.githubusercontent.com/38637390/170611187-d0f41af2-7357-477f-848a-d28bf42b7aa6.png)](https://www.linkedin.com/in/maia-de-oliveira-238322122/)
 
+<!-- duolingo -->
+
+
 
 
 <div style="display: inline_block"><br>
@@ -24,10 +27,13 @@
   <img align="center" alt="Maia-flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Maia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Maia-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  
+    
   <img align="center" alt="Maia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Maia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Maia-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
+  <img align="center" alt="Maia-git" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
 </div>
   
   ##
