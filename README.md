@@ -1,19 +1,19 @@
-### Hi there 👋 I'm Maia  
+## Hi there 👋 I'm Maia   
 
-* 📱- I'm a mobile developer  
+* 📱 - I'm a mobile developer  
 * 🌈- Pronouns: She/Her 
 * 👩‍💻- Current working on BRQ - Itaú  
-* 👩🏻‍🎓- Graduating on Information Science on [@UFSC](http://ufsc.br/)
+* 👩🏻‍🎓- Graduating on Information Science on [@UFSC](http://ufsc.br/) 
 * 📚- Studing [Android Jetpack Compose](https://developer.android.com/jetpack/compose)  
 * 💖- Flutter enthusiast 
 * 🎨- Kind of artist  
-* 🚴‍♀️- Ciclist
+* 🚴‍♀️- Ciclist 
 * 👾- Indie and old fashioned games fan 
 * 👽- Love sci-fi and aliens movies 
 * 🌎- And wanting to become a digital nomade 
-* 📫- You can find me on  [![image](https://user-images.githubusercontent.com/38637390/170611187-d0f41af2-7357-477f-848a-d28bf42b7aa6.png)](https://www.linkedin.com/in/maia-de-oliveira-238322122/)
+* 📫- You can find me on  [![image](https://user-images.githubusercontent.com/38637390/170611187-d0f41af2-7357-477f-848a-d28bf42b7aa6.png)](https://www.linkedin.com/in/maia-de-oliveira-238322122/) 
 
-<!-- duolingo -->
+
 
 
 
@@ -41,8 +41,12 @@
   
 <div>
   <a href="https://github.com/maiadeolive">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maiadeolive&count_private=true&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiadeolive&layout=compact&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=maiadeolive&count_private=true&show_icons=true&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiadeolive&layout=compact&theme=dracula"/>
+ <!-- duolingo -->
+    
+    
+   
 </div>
 
  ![Snake animation](https://github.com/maiadeolive/maiadeolive/blob/output/github-contribution-grid-snake.svg)
