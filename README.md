@@ -4,8 +4,8 @@
 * 🌈- Pronouns: She/Her 
 * 👩‍💻- Current working on BRQ - Itaú  
 * 👩🏻‍🎓- Graduating on Information Science on [@UFSC](http://ufsc.br/) 
-* 📚- Studing [Android Jetpack Compose](https://developer.android.com/jetpack/compose)  
-* 💖- Flutter enthusiast 
+* 📚- Studing [Android Jetpack Compose](https://developer.android.com/jetpack/compose)
+* 💖- Studing [Flutter] (https://flutter.dev/)
 * 🎨- Kind of artist  
 * 🚴‍♀️- Ciclist 
 * 👾- Indie and old fashioned games fan 
