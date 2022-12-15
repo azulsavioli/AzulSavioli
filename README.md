@@ -45,7 +45,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiadeolive&layout=compact&theme=dracula"/> 
    
 </div>
-  
-<!-- duolingo -->
+
 
 ![Snake animation](https://github.com/maiadeolive/maiadeolive/blob/output/github-contribution-grid-snake.svg)
