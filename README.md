@@ -3,7 +3,8 @@
 * 📱 - I'm a mobile developer  
 * 🌈- Pronouns: She/Her 
 * 👩‍💻- Current working on BRQ - Itaú  
-* 👩🏻‍🎓- Graduating on Information Science on [@UFSC](http://ufsc.br/) 
+* 👩🏻‍🎓- Graduating on Information Science on [@UFSC](http://ufsc.br/)
+* 📚- Studing [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform.html)
 * 📚- Studing [Android Jetpack Compose](https://developer.android.com/jetpack/compose)
 * 💖- Studing [Flutter](https://flutter.dev/)
 * 🎨- Kind of artist  
