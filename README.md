@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Azul   
 
 * 📱 - I'm a mobile developer  
-* 🌈- Pronouns: She/Her 
+* 🌈- Pronouns: ile/elu 
 * 👩‍💻- Current working on BRQ - Itaú  
 * 👩🏻‍🎓- Information Scientist [UFSC](http://ufsc.br/)
 * 💻- Coding - Aways improoving [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform.html)
