@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Maia   
+## Hi there 👋 I'm Azul   
 
 * 📱 - I'm a mobile developer  
 * 🌈- Pronouns: She/Her 
