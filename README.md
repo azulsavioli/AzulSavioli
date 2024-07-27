@@ -13,7 +13,7 @@
 * 👾- Indie and old fashioned games fan 
 * 👽- Love sci-fi and aliens movies 
 * 🌎- Traveler
-* 📫- You can find me on  [![image](https://user-images.githubusercontent.com/38637390/170611187-d0f41af2-7357-477f-848a-d28bf42b7aa6.png)](https://www.linkedin.com/in/maia-de-oliveira-238322122/) 
+* 📫- You can find me on  [![image](https://user-images.githubusercontent.com/38637390/170611187-d0f41af2-7357-477f-848a-d28bf42b7aa6.png)](https://www.linkedin.com/in/azul-maia-savioli-%F0%9F%8C%88-238322122/) 
 
 
 
