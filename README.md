@@ -6,8 +6,6 @@
 * 👩🏻‍🎓- Information Scientist [UFSC](http://ufsc.br/)
 * 💻- Coding - Aways improoving [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform.html)
 * 💻- Coding - Aways improoving [Android Jetpack Compose](https://developer.android.com/jetpack/compose)
-* 💻- Coding - Aways improoving [Flutter](https://flutter.dev/)
-* 📚- Studing [IOS](https://www.hackingwithswift.com/100/swiftui)
 * 🎨- Kind of artist  
 * 🚴‍♀️- Ciclist 
 * 👾- Indie and old fashioned games fan 
