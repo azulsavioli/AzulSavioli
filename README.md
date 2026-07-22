@@ -2,7 +2,7 @@
 
 * 📱 - I'm a mobile developer  
 * 🌈- Pronouns: ile/elu 
-* 👩‍💻- Current working on BRQ - Itaú  
+* 👩‍💻- Current working on Group OLX
 * 👩🏻‍🎓- Information Scientist [UFSC](http://ufsc.br/)
 * 💻- Coding - Aways improoving [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform.html)
 * 💻- Coding - Aways improoving [Android Jetpack Compose](https://developer.android.com/jetpack/compose)
